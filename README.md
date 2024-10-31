@@ -1,30 +1,31 @@
-# Hi there, I'm Khujamov Nodirbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px">
-
+# Hi there, I'm Khujamov Nodirbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px"> 
 
 ## 📫 How to contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ixvadev1)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@ixvadev/)
+[![Telegram](https://img.shields.io/badge/-Telegram-F4A508?style=for-the-badge&logo=Telegram&logoColor=black)](https://t.me/ixvadev1)
+[![Instagram](https://img.shields.io/badge/-Instagram-F4A508?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/@ixvadev/)
 
 ## 🛠 Technologies & Languages:
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-F4A508?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-F4A508?style=flat-square&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F4A508?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F4A508?style=flat-square&logo=typescript&logoColor=black)
 
 ## 🧰 Frameworks & Libraries:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Scss](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-F4A508?style=flat-square&logo=bootstrap&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-F4A508?style=flat-square&logo=tailwindcss&logoColor=black)
+![Scss](https://img.shields.io/badge/-Sass-F4A508?style=flat-square&logo=sass&logoColor=black)
+![React](https://img.shields.io/badge/-React-F4A508?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-F4A508?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-F4A508?style=flat-square&logo=redux&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-F4A508?style=flat-square&logo=next.js&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-F4A508?style=flat-square&logo=vue.js&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-F4A508?style=flat-square&logo=jquery&logoColor=black)
+![Pug](https://img.shields.io/badge/-Pug-F4A508?style=flat-square&logo=pug&logoColor=black)
 
 ## 🔧 Others:
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+![Figma](https://img.shields.io/badge/-Figma-F4A508?style=flat-square&logo=figma&logoColor=black)
+![Canva](https://img.shields.io/badge/-Canva-F4A508?style=flat-square&logo=canva&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F4A508?style=flat-square&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-F4A508?style=flat-square&logo=github&logoColor=black)
+![Notion](https://img.shields.io/badge/-Notion-F4A508?style=flat-square&logo=notion&logoColor=black)
+![Photoshop](https://img.shields.io/badge/-Photoshop-F4A508?style=flat-square&logo=adobephotoshop&logoColor=black)
