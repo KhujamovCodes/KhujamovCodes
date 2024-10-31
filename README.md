@@ -11,21 +11,17 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F4A508?style=flat-square&logo=typescript&logoColor=black)
 
 ## 🧰 Frameworks & Libraries:
+![Pug](https://img.shields.io/badge/-Pug-F4A508?style=flat-square&logo=pug&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F4A508?style=flat-square&logo=bootstrap&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-F4A508?style=flat-square&logo=tailwindcss&logoColor=black)
 ![Scss](https://img.shields.io/badge/-Sass-F4A508?style=flat-square&logo=sass&logoColor=black)
 ![React](https://img.shields.io/badge/-React-F4A508?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-F4A508?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-F4A508?style=flat-square&logo=redux&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-F4A508?style=flat-square&logo=next.js&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-F4A508?style=flat-square&logo=vue.js&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-F4A508?style=flat-square&logo=jquery&logoColor=black)
-![Pug](https://img.shields.io/badge/-Pug-F4A508?style=flat-square&logo=pug&logoColor=black)
 
 ## 🔧 Others:
+![Photoshop](https://img.shields.io/badge/-Photoshop-F4A508?style=flat-square&logo=adobephotoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F4A508?style=flat-square&logo=figma&logoColor=black)
 ![Canva](https://img.shields.io/badge/-Canva-F4A508?style=flat-square&logo=canva&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F4A508?style=flat-square&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-F4A508?style=flat-square&logo=github&logoColor=black)
 ![Notion](https://img.shields.io/badge/-Notion-F4A508?style=flat-square&logo=notion&logoColor=black)
-![Photoshop](https://img.shields.io/badge/-Photoshop-F4A508?style=flat-square&logo=adobephotoshop&logoColor=black)
