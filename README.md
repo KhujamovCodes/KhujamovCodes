@@ -1,7 +1,5 @@
-# Hi there, I'm Khujamov Codes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px">
+# Hi there, I'm Khujamov Nodirbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px">
 
-## 👨‍💻 About Me:
-- 🎓 Education: <a href="https://www.sferaacademy.uz/" target="_blank">Sfera Academy</a>
 
 ## 📫 How to contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ixvadev1)
