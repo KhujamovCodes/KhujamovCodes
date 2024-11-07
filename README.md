@@ -1,3 +1,5 @@
+![codde1](https://github.com/user-attachments/assets/00760fcd-3569-4de7-b0f4-e5e9d413fe05)
+
 # Hi there, I'm Khujamov Nodirbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px"> 
 
 ## 📫 How to contact me:
